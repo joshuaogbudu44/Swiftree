@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="space-y-4">
             <img 
-              src="/lovable-uploads/b102d58e-5c77-4eac-bbb1-1e773a6fbbad.png" 
+              src="/lovable-uploads/logo.png" 
               alt="Swiftree" 
               className="h-8 w-auto brightness-0 invert"
             />
