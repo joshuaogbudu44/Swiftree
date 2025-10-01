@@ -87,7 +87,9 @@ const Header = () => {
           {/* Auth Buttons */}
           <div className="hidden md:flex items-center space-x-4">
             <Button variant="ghost" className="hover:bg-green-light/50" asChild>
-              <a href="/login">Login</a>
+              <a href="https://vendor-plum.vercel.app/login" target="_blank" rel="noopener noreferrer">
+                Login
+              </a>
             </Button>
             <Button className="bg-gradient-primary hover:opacity-90 transition-opacity">
               Start Free Trial
@@ -144,7 +146,14 @@ const Header = () => {
               </div>
               <div className="px-3 py-2 space-y-2">
                 <Button variant="ghost" className="w-full justify-start hover:bg-green-light/50" asChild>
-                  <a href="/login">Login</a>
+                  <a 
+                    href="https://vendor-plum.vercel.app/login" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    Login
+                  </a>
                 </Button>
                 <Button className="w-full bg-gradient-primary hover:opacity-90 transition-opacity">
                   Start Free Trial
