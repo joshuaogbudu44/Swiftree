@@ -53,7 +53,7 @@ const WhatsAppDemo = () => {
     {
       icon: <Truck className="h-5 w-5" />,
       title: "Delivery",
-      message: "Track your delivery here: sellfast.ng/track/SF001234",
+      message: "Track your delivery here: swiftree.ng/track/SF001234",
       sender: "business",
       time: "2:37 PM",
       hasButton: true,

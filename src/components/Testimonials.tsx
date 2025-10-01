@@ -7,7 +7,7 @@ const Testimonials = () => {
       business: "Kemi's Fashion Store",
       location: "Lagos, Nigeria",
       image: "https://images.unsplash.com/photo-1494790108755-2616b612b3fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
-      quote: "Sellfast changed my business completely! I went from struggling to make ₦50,000 monthly to consistently making over ₦300,000. My customers love shopping directly on WhatsApp.",
+      quote: "Swiftree changed my business completely! I went from struggling to make ₦50,000 monthly to consistently making over ₦300,000. My customers love shopping directly on WhatsApp.",
       rating: 5
     },
     {
@@ -23,7 +23,7 @@ const Testimonials = () => {
       business: "Mama Chi's Kitchen",
       location: "Port Harcourt, Nigeria",
       image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&h=200",
-      quote: "My food business was purely offline before Sellfast. Now I get orders from all over Port Harcourt through WhatsApp. The payment links make everything so smooth!",
+      quote: "My food business was purely offline before Swiftree. Now I get orders from all over Port Harcourt through WhatsApp. The payment links make everything so smooth!",
       rating: 5
     }
   ];
@@ -47,7 +47,7 @@ const Testimonials = () => {
             Trusted by Nigerian Entrepreneurs
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Join thousands of successful business owners who are already growing with Sellfast
+            Join thousands of successful business owners who are already growing with Swiftree
           </p>
         </div>
 

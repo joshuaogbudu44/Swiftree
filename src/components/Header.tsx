@@ -36,7 +36,7 @@ const Header = () => {
           <div className="flex items-center">
             <img 
               src="/lovable-uploads/logo.png" 
-              alt="Sellfast" 
+              alt="Swiftree" 
               className="h-8 w-auto"
             />
           </div>

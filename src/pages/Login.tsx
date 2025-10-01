@@ -32,11 +32,11 @@ const Login = () => {
           <div className="text-center mb-8">
             <img 
               src="/lovable-uploads/b102d58e-5c77-4eac-bbb1-1e773a6fbbad.png" 
-              alt="Sellfast Logo" 
+              alt="Swiftree Logo" 
               className="h-12 w-auto mx-auto mb-4"
             />
             <h1 className="text-2xl font-bold text-foreground">
-              {isLogin ? "Welcome back!" : "Join Sellfast"}
+              {isLogin ? "Welcome back!" : "Join Swiftree"}
             </h1>
             <p className="text-muted-foreground">
               {isLogin 

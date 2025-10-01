@@ -45,7 +45,7 @@ const StorefrontGenerator = () => {
   ];
 
   const colorSchemes = [
-    { name: "Sellfast Green", value: "green", colors: ["#4fca6a", "#6bd480", "#87df97"] },
+    { name: "Swiftree Green", value: "green", colors: ["#4fca6a", "#6bd480", "#87df97"] },
     { name: "Ocean Blue", value: "blue", colors: ["#3b82f6", "#60a5fa", "#93c5fd"] },
     { name: "Purple Elegance", value: "purple", colors: ["#8b5cf6", "#a78bfa", "#c4b5fd"] },
     { name: "Sunset Orange", value: "orange", colors: ["#f97316", "#fb923c", "#fdba74"] }
@@ -383,7 +383,7 @@ const StorefrontGenerator = () => {
               <CardContent className="p-6 text-center">
                 <h3 className="font-bold text-lg mb-2">Ready to Start?</h3>
                 <p className="text-sm opacity-90 mb-4">
-                  Join 5,000+ Nigerian businesses already using Sellfast
+                  Join 5,000+ Nigerian businesses already using Swiftree
                 </p>
                 <Button variant="secondary" className="w-full">
                   Get Professional Plan

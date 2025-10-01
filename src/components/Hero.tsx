@@ -11,7 +11,7 @@ const Hero = () => {
             variant="secondary" 
             className="mb-6 px-4 py-2 bg-green-light/50 text-green-dark border-green-medium/30 hover:bg-green-light/70 transition-colors"
           >
-            🚀 Welcome to Sellfast
+            🚀 Welcome to Swiftree
           </Badge>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 animate-fade-in">
             <span className="block">Sell Faster.</span>
@@ -62,7 +62,7 @@ const Hero = () => {
           <div className="relative bg-gradient-to-br from-green-light/20 to-green-medium/20 rounded-2xl p-8 border border-green-light/30 shadow-glow">
             <img 
               src="/api/placeholder/1200/800" 
-              alt="Sellfast Dashboard" 
+              alt="Swiftree Dashboard" 
               className="w-full h-auto rounded-xl shadow-2xl"
             />
             {/* Floating elements */}

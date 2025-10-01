@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="space-y-4">
             <img 
               src="/lovable-uploads/b102d58e-5c77-4eac-bbb1-1e773a6fbbad.png" 
-              alt="Sellfast" 
+              alt="Swiftree" 
               className="h-8 w-auto brightness-0 invert"
             />
             <p className="text-green-light text-sm">
@@ -71,11 +71,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4" />
-                <span>+234 (0) 800 SELLFAST</span>
+                <span>+234 (0) 800 SWIFTREE</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                <span>hello@sellfast.ng</span>
+                <span>hello@Swiftree.ng</span>
               </div>
             </div>
           </div>
@@ -83,7 +83,7 @@ const Footer = () => {
 
         <div className="border-t border-green-medium mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-green-light text-sm">
-            © 2024 Sellfast. All rights reserved. Made with ❤️ in Nigeria.
+            © 2024 Swiftree. All rights reserved. Made with ❤️ in Nigeria.
           </div>
           <div className="flex space-x-6 mt-4 md:mt-0 text-sm text-green-light">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

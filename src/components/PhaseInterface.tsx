@@ -108,7 +108,7 @@ const PhaseInterface = () => {
             </div>
             <div className="flex items-center p-2 bg-green-light/20 rounded">
               <Smartphone className="w-4 h-4 mr-2 text-green-primary" />
-              <span className="text-xs">sellfast.ng/store/fashion-hub</span>
+              <span className="text-xs">swiftree.ng/store/fashion-hub</span>
             </div>
           </div>
           

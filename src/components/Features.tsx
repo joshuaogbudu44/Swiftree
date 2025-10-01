@@ -40,7 +40,7 @@ const Features = () => {
     {
       icon: <Smartphone className="h-12 w-12 text-green-primary" />,
       title: "For SMEs",
-      description: "Manage inventory, payments, and orders effortlessly with Sellfast's all-in-one platform designed for Small and Medium Enterprises.",
+      description: "Manage inventory, payments, and orders effortlessly with Swiftree's all-in-one platform designed for Small and Medium Enterprises.",
       features: ["Inventory Management", "Payment Processing", "Order Tracking", "Customer Support"]
     },
     {
@@ -78,7 +78,7 @@ const Features = () => {
         {/* Main Features */}
         <div className="mb-20">
           <h2 className="text-3xl md:text-4xl font-bold text-center text-foreground mb-12">
-            Why Nigerian Businesses Choose Sellfast
+            Why Nigerian Businesses Choose Swiftree
           </h2>
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {features.map((feature, index) => (
@@ -108,7 +108,7 @@ const Features = () => {
         <div>
           <div className="text-center mb-12">
             <Badge variant="secondary" className="mb-4 bg-green-light/50 text-green-dark">
-              Sellfast is built for every business
+              Swiftree is built for every business
             </Badge>
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
               Built for Nigerian SMEs
