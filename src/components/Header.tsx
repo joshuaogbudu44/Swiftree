@@ -91,8 +91,10 @@ const Header = () => {
                 Login
               </a>
             </Button>
-            <Button className="bg-gradient-primary hover:opacity-90 transition-opacity">
-              Start Free Trial
+            <Button className="bg-gradient-primary hover:opacity-90 transition-opacity" asChild>
+              <a href="https://vendor-plum.vercel.app/signup" target="_blank" rel="noopener noreferrer">
+                Start Free Trial
+              </a>
             </Button>
           </div>
 
@@ -155,8 +157,15 @@ const Header = () => {
                     Login
                   </a>
                 </Button>
-                <Button className="w-full bg-gradient-primary hover:opacity-90 transition-opacity">
-                  Start Free Trial
+                <Button className="w-full bg-gradient-primary hover:opacity-90 transition-opacity" asChild>
+                  <a 
+                    href="https://vendor-plum.vercel.app/signup" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    Start Free Trial
+                  </a>
                 </Button>
               </div>
             </div>

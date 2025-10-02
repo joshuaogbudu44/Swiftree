@@ -27,9 +27,12 @@ const Hero = () => {
             <Button 
               size="lg" 
               className="bg-gradient-primary hover:opacity-90 transition-opacity shadow-elegant text-lg px-8 py-6"
+              asChild
             >
-              Start Free Trial
-              <ArrowRight className="ml-2 h-5 w-5" />
+              <a href="https://vendor-plum.vercel.app/signup" target="_blank" rel="noopener noreferrer">
+                Start Free Trial
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </a>
             </Button>
             <Button 
               size="lg" 
